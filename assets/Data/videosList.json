@@ -1,0 +1,41 @@
+[
+    {
+      "image": "https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=",
+      "category": "Nature",
+      "assetsVideos" : [
+        "assets/videos/1.mp4",
+        "assets/videos/2.mp4",
+        "assets/videos/3.mp4"
+      ],
+      "networkVideos" : [
+        "https://media.istockphoto.com/videos/fabulous-sunset-from-a-birds-eye-view-fog-illuminated-by-the-sun-video-id1332671435",
+        "https://media.istockphoto.com/videos/european-robin-looking-for-food-in-tree-stump-in-forest-and-flying-video-id1301955103"
+      ]
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__340.jpg",
+      "category": "Flowers",
+      "assetsVideos" : [
+        "assets/videos/f1.mp4",
+        "assets/videos/f2.mp4",
+        "assets/videos/f3.mp4"
+      ],
+      "networkVideos" : [
+        "https://media.istockphoto.com/videos/narcissus-garden-closeup-video-id1358719869",
+        "https://media.istockphoto.com/videos/spring-flower-narcissus-pseudonarcissus-slow-waving-by-the-wind-4k-video-id1132307492"
+      ]
+    },
+    {
+      "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-d97drss12eo8plr6t3lcgma013-20190729012200.jpeg",
+      "category": "Wildlife Animals",
+      "assetsVideos" : [
+        "assets/videos/w1.mp4",
+        "assets/videos/w2.mp4",
+        "assets/videos/w3.mp4"
+      ],
+      "networkVideos" : [
+        "https://media.istockphoto.com/videos/roe-deer-running-in-snow-covered-rural-field-video-id1087294522",
+        "https://media.istockphoto.com/videos/elephants-video-id472793571"
+      ]
+    }
+  ]
